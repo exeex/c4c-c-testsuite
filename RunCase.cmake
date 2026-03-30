@@ -59,7 +59,7 @@ elseif(CODEGEN_MODE STREQUAL "backend-x86_64")
   endforeach()
 
   execute_process(
-    COMMAND "${COMPILER}" --codegen lir --target "${TARGET_TRIPLE}" "${SRC}" -o "${OUT_LL}"
+    COMMAND "${COMPILER}" --codegen asm --target "${TARGET_TRIPLE}" "${SRC}" -o "${OUT_LL}"
     WORKING_DIRECTORY "${ROOT}"
     RESULT_VARIABLE front_rc
     OUTPUT_VARIABLE front_out
