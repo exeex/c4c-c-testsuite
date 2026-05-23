@@ -21,11 +21,11 @@ src/00017.c
 src/00018.c
 src/00019.c
 src/00020.c
-# src/00021.c  # AArch64 backend runtime hang quarantine; revisit after non-hanging runtime failures.
+src/00021.c
 src/00022.c
 src/00023.c
 src/00024.c
-# src/00025.c  # AArch64 backend runtime hang quarantine; revisit after non-hanging runtime failures.
+src/00025.c
 src/00026.c
 src/00027.c
 src/00028.c
@@ -33,14 +33,14 @@ src/00029.c
 src/00030.c
 src/00031.c
 src/00032.c
-# src/00033.c  # AArch64 backend runtime hang quarantine; revisit after non-hanging runtime failures.
+src/00033.c
 src/00034.c
 src/00035.c
 src/00036.c
 src/00037.c
 src/00038.c
 src/00039.c
-# src/00040.c  # AArch64 backend runtime hang quarantine; revisit after non-hanging runtime failures.
+src/00040.c
 src/00041.c
 src/00042.c
 src/00043.c
@@ -78,13 +78,13 @@ src/00074.c
 src/00075.c
 src/00076.c
 src/00077.c
-# src/00078.c  # AArch64 backend runtime hang quarantine; revisit after non-hanging runtime failures.
+src/00078.c
 src/00079.c
-# src/00080.c  # AArch64 backend runtime hang quarantine; revisit after non-hanging runtime failures.
+src/00080.c
 src/00081.c
 src/00082.c
-# src/00083.c  # AArch64 backend runtime hang quarantine; revisit after non-hanging runtime failures.
-# src/00084.c  # AArch64 backend runtime hang quarantine; revisit after non-hanging runtime failures.
+src/00083.c
+src/00084.c
 src/00085.c
 src/00086.c
 src/00087.c
